@@ -10,3 +10,7 @@ div {
     min-height: 100%;
     z-index: -1; 
 }
+p{
+    color:  rgb(255, 0, 0);
+    font-family: 'Open Sans', sans-serif;  
+}
